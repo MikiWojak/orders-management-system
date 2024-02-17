@@ -17,16 +17,15 @@
   * Add new Item
   * Remove Item
   * Filter by Item name
-* Orders
+* Orders:
   * Show all Orders
   * Show Order
   * Add new Order
   * Remove Order
-  * Filter by
+  * Filter by:
     * Ordered At range
     * Gross Total range
     * Client
 
 ## Technical features
-* Data storage
-  * TXT files
+* Data storage - TXT files
