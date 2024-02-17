@@ -29,6 +29,7 @@ bin/
 .DS_Store
 
 *.txt
+!LICENSE.txt
 
 .idea/workspace.xml
 .idea/usage.statistics.xml
